@@ -1,0 +1,3 @@
+D:\Документы\Проекты\KursovV3\KursovV3\x64\Debug\KursovV3.vcxproj.AssemblyReference.cache
+D:\Документы\Проекты\KursovV3\KursovV3\x64\Debug\KursovV3.MyForm.resources
+D:\Документы\Проекты\KursovV3\KursovV3\x64\Debug\KursovV3.vcxproj.GenerateResource.cache

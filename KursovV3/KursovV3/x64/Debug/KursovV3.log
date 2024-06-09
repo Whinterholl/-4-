@@ -1,0 +1,7 @@
+﻿  Book.cpp
+D:\Документы\Проекты\KursovV3\KursovV3\Book.cpp(63,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Документы\Проекты\KursovV3\KursovV3\Book.cpp(71,38): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Документы\Проекты\KursovV3\KursovV3\Book.cpp(88,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Документы\Проекты\KursovV3\KursovV3\Book.cpp(490,13): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  Article.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  KursovV3.vcxproj -> D:\Документы\Проекты\KursovV3\x64\Debug\KursovV3.exe
